@@ -12,6 +12,7 @@ import java.util.Scanner;
  * arithmetic operations based on user input
  * execute the code check the output
  * @author sivagamasrinivasan
+ * @author manvirsohi
  * date 02/19
  */
 public class Arithmetic 
